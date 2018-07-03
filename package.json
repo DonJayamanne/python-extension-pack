@@ -2,45 +2,44 @@
     "name": "python-extension-pack",
     "displayName": "Python Extension Pack",
     "description": "Popular Visual Studio Code extensions for Python",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "donjayamanne",
-	"author": {
-		"name": "Don Jayamanne",
-		"email": "don.jayamanne@yahoo.com"
-	},
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/DonJayamanne/python-extension-pack"
-	},
-	"bugs": {
-		"url": "https://github.com/DonJayamanne/python-extension-pack/issues"
-	},
-	"icon": "icon.svg",
-	"galleryBanner": {
-		"color": "#1e415e",
-		"theme": "dark"
-	},
+    "author": {
+        "name": "Don Jayamanne",
+        "email": "don.jayamanne@yahoo.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DonJayamanne/python-extension-pack"
+    },
+    "bugs": {
+        "url": "https://github.com/DonJayamanne/python-extension-pack/issues"
+    },
+    "icon": "icon.svg",
+    "galleryBanner": {
+        "color": "#1e415e",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.13.0"
     },
-	"keywords": [
-		"python",
-		"jupyter",
-		"django",
-		"debugger",
-		"unittest",
+    "keywords": [
+        "python",
+        "jupyter",
+        "django",
+        "debugger",
+        "unittest",
         "jinja"
-	],
+    ],
     "categories": [
         "Extension Packs"
     ],
     "extensionDependencies": [ 
         "magicstack.MagicPython", 
-        "donjayamanne.python",
+        "ms-python.python",
         "donjayamanne.jupyter",
         "wholroyd.jinja",
-        "bibhasdn.django-html",
-        "bibhasdn.django-snippets"
+        "batisteo.vscode-django"
     ]
 }
