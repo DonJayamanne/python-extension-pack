@@ -41,6 +41,7 @@
         "donjayamanne.jupyter",
         "wholroyd.jinja",
         "bibhasdn.django-html",
-        "bibhasdn.django-snippets"
+        "bibhasdn.django-snippets",
+	"MS-vsliveshare.vsliveshare"
     ]
 }
