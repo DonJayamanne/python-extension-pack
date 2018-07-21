@@ -41,5 +41,6 @@
         "donjayamanne.jupyter",
         "wholroyd.jinja",
         "batisteo.vscode-django"
+      	"MS-vsliveshare.vsliveshare"
     ]
 }
