@@ -1,3 +1,7 @@
+## 1.3.0
+
+- Included Visual Studio IntelliCode.
+
 ## 1.2.0
 
 - Included VS Live Share.

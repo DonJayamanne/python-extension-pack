@@ -10,6 +10,7 @@ This extension pack packages some of the most popular (and some of my favorite) 
 * [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) - Jinja template language support for Visual Studio Code.   
 * [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django) - Beautiful syntax and scoped snippets for perfectionists with deadlines.
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - Provides AI-assisted productivity features for Python developers in Visual Studio Code with insights based on understanding your code combined with machine learning..
 
 ## Want to see your extension added?
 
