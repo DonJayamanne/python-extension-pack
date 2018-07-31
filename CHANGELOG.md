@@ -1,3 +1,7 @@
+## 1.4.0
+
+- Remove VS Live Share (as this not specific to Python).
+
 ## 1.3.0
 
 - Included Visual Studio IntelliCode.
