@@ -22,7 +22,7 @@
 		"theme": "dark"
 	},
     "engines": {
-        "vscode": "^1.25.0"
+        "vscode": "^1.26.0"
     },
 	"keywords": [
 		"python",
