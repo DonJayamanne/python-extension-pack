@@ -2,7 +2,7 @@
     "name": "python-extension-pack",
     "displayName": "Python Extension Pack",
     "description": "Popular Visual Studio Code extensions for Python",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "publisher": "donjayamanne",
 	"author": {
 		"name": "Don Jayamanne",
@@ -34,11 +34,11 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
-        "magicstack.MagicPython", 
+    "extensionDependencies": [
+        "magicstack.MagicPython",
         "ms-python.python",
         "wholroyd.jinja",
-        "batisteo.vscode-django", 
+        "batisteo.vscode-django",
       	"VisualStudioExptTeam.vscodeintellicode"
     ]
 }

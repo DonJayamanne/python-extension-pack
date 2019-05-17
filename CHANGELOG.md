@@ -1,3 +1,7 @@
+## 1.5.0
+
+- Remove Jupyter extension.
+
 ## 1.4.0
 
 - Remove VS Live Share (as this not specific to Python).
