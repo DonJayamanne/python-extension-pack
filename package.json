@@ -34,7 +34,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [
+    "extensionPack": [
         "magicstack.MagicPython",
         "ms-python.python",
         "wholroyd.jinja",
