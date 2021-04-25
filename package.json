@@ -1,9 +1,9 @@
 {
-    "name": "python-extension-pack",
-    "displayName": "Python Extension Pack",
-    "description": "Popular Visual Studio Code extensions for Python",
-    "version": "1.5.0",
-    "publisher": "donjayamanne",
+	"name": "python-extension-pack",
+	"displayName": "Python Extension Pack",
+	"description": "Popular Visual Studio Code extensions for Python",
+	"version": "1.5.0",
+	"publisher": "donjayamanne",
 	"author": {
 		"name": "Don Jayamanne",
 		"email": "don.jayamanne@yahoo.com"
@@ -21,25 +21,25 @@
 		"color": "#1e415e",
 		"theme": "dark"
 	},
-    "engines": {
-        "vscode": "^1.26.0"
-    },
+	"engines": {
+		"vscode": "^1.26.0"
+	},
 	"keywords": [
 		"python",
 		"django",
 		"debugger",
 		"unittest",
-        "jinja"
+		"jinja"
 	],
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "magicstack.MagicPython",
-        "ms-python.python",
-        "wholroyd.jinja",
-        "batisteo.vscode-django",
-      	"VisualStudioExptTeam.vscodeintellicode",
-	"njpwerner.autodocstring"
-    ]
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"magicstack.MagicPython",
+		"ms-python.python",
+		"wholroyd.jinja",
+		"batisteo.vscode-django",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"njpwerner.autodocstring"
+	]
 }
