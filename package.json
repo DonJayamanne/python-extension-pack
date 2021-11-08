@@ -34,11 +34,12 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [
+    "extensionPack": [
         "njpwerner.autodocstring",
         "ms-python.python",
         "wholroyd.jinja",
         "batisteo.vscode-django",
-      	"VisualStudioExptTeam.vscodeintellicode"
+      	"VisualStudioExptTeam.vscodeintellicode",
+	"njpwerner.autodocstring"
     ]
 }
