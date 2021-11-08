@@ -1,3 +1,9 @@
+## 1.7.0
+
+- Add Python Indent
+- Add Python Environment Manager
+- Add Jupyter extension.
+
 ## 1.5.0
 
 - Remove Jupyter extension.

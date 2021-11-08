@@ -1,45 +1,46 @@
 {
-    "name": "python-extension-pack",
-    "displayName": "Python Extension Pack",
-    "description": "Popular Visual Studio Code extensions for Python",
-    "version": "1.6.0",
-    "publisher": "donjayamanne",
-	"author": {
-		"name": "Don Jayamanne",
-		"email": "don.jayamanne@yahoo.com"
-	},
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/DonJayamanne/python-extension-pack"
-	},
-	"bugs": {
-		"url": "https://github.com/DonJayamanne/python-extension-pack/issues"
-	},
-	"icon": "icon.png",
-	"galleryBanner": {
-		"color": "#1e415e",
-		"theme": "dark"
-	},
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-	"keywords": [
-		"python",
-		"django",
-		"debugger",
-		"unittest",
-        "jinja"
-	],
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "njpwerner.autodocstring",
-        "ms-python.python",
-        "wholroyd.jinja",
-        "batisteo.vscode-django",
-      	"VisualStudioExptTeam.vscodeintellicode",
-	"njpwerner.autodocstring"
-    ]
+  "name": "python-extension-pack",
+  "displayName": "Python Extension Pack",
+  "description": "Popular Visual Studio Code extensions for Python",
+  "version": "1.7.0",
+  "publisher": "donjayamanne",
+  "author": {
+    "name": "Don Jayamanne",
+    "email": "don.jayamanne@yahoo.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DonJayamanne/python-extension-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/DonJayamanne/python-extension-pack/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e415e",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "keywords": [
+    "python",
+    "django",
+    "debugger",
+    "unittest",
+    "jinja"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "njpwerner.autodocstring",
+    "ms-python.python",
+    "wholroyd.jinja",
+    "batisteo.vscode-django",
+    "VisualStudioExptTeam.vscodeintellicode",
+	"KevinRose.vsc-python-indent",
+	"donjayamanne.python-environment-manager"
+  ]
 }
