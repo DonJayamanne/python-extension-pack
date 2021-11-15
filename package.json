@@ -40,7 +40,8 @@
     "wholroyd.jinja",
     "batisteo.vscode-django",
     "VisualStudioExptTeam.vscodeintellicode",
-	"KevinRose.vsc-python-indent",
-	"donjayamanne.python-environment-manager"
+    "KevinRose.vsc-python-indent",
+    "donjayamanne.python-environment-manager",
+    "Boto3typed.boto3-ide"
   ]
 }
