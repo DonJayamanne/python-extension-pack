@@ -2,7 +2,7 @@
   "name": "python-extension-pack",
   "displayName": "Python Extension Pack",
   "description": "Popular Visual Studio Code extensions for Python",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "publisher": "donjayamanne",
   "author": {
     "name": "Don Jayamanne",
@@ -38,9 +38,9 @@
     "njpwerner.autodocstring",
     "ms-python.python",
     "wholroyd.jinja",
-    "batisteo.vscode-django",
+    "almahdi.code-django",
     "VisualStudioExptTeam.vscodeintellicode",
-	"KevinRose.vsc-python-indent",
-	"donjayamanne.python-environment-manager"
+    "KevinRose.vsc-python-indent",
+    "donjayamanne.python-environment-manager"
   ]
 }
