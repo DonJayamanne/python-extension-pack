@@ -1,3 +1,7 @@
+## 1.8.0
+
+- switch to better django extension
+
 ## 1.7.0
 
 - Add Python Indent
